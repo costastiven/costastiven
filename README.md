@@ -5,14 +5,27 @@ Mi enfoque se centra en ofrecer soluciones personalizadas y de alta calidad para
 
 ## 📋 Experiencia y Habilidades
 
-- ✅ **Simplificación de Ideas Tecnológicas**: Tengo una habilidad especial para desglosar ideas complejas en documentación clara y comprensible.
-- ✅ **Captura de Necesidades y Funcionalidades**: Soy experto en identificar las necesidades esenciales y funcionalidades clave para una planificación efectiva.
-- ✅ **Requerimientos Funcionales y no Funcionales**: Especifico los requerimientos utilizando User Stories para garantizar un desarrollo efectivo.
-- ✅ **Documentación Técnica**: Creo manuales de usuario y guías técnicas que facilitan la comprensión de sistemas y aplicaciones.
-- ✅ **Metodologías Ágiles**: Tengo experiencia en metodologías ágiles como Scrum para gestionar proyectos de manera eficiente.
-- ✅ **UML**: Utilizo UML para crear diversos tipos de diagramas, incluyendo Clases, Objetos, Casos de Uso, Secuencia, Actividades, Estados, Componentes y Despliegue.
-- ✅ **Pruebas Exhaustivas**: Ejecuto casos de prueba exhaustivos para garantizar el funcionamiento óptimo de los sistemas.
-- ✅ **Gestión de Proyectos**: Utilizo herramientas como Jira, Trello y más para gestionar proyectos de manera efectiva.
+## Analista Funcional
+- Eynes Ingeniería del software | Noviembre 2023 - Octubre 2024
+
+- 💼 Experiencia como Analista Funcional, implementando Odoo como software ERP en diversos proyectos.
+- ⚙️ Especializado en la optimización de procesos empresariales a través de una amplia gama de módulos.
+- 🚀 Aplicando la metodología ágil SCRUM para asegurar una entrega eficiente y colaborativa.
+- 🔄 Enfocado en la mejora continua y la adaptación a las necesidades del cliente.
+
+## 🛠️ Módulos implementados en proyectos:
+
+- 📊 Módulo de Contabilidad.
+- 🧾 Módulo de Facturación.
+- 💰 Módulo de Tesorería.
+- 🏪 Módulo de Punto de venta.
+- 📦 Módulo de Inventario.
+- 🏭 Módulo de Fabricación.
+- 🛍️ Módulo de Ventas.
+- 🛒 Módulo de Compras.
+- 👷 Módulo de Empleados.
+- 🌐 Módulo de Sitio Web.
+- 📞 Módulo de CRM.
 
 ## 💻 Desarrollo de Software
 
@@ -22,8 +35,7 @@ Mi enfoque se centra en ofrecer soluciones personalizadas y de alta calidad para
 - 🔌 **Integración de Sistemas**: Tengo experiencia en integrar sistemas de manera efectiva para que funcionen de forma conjunta.
 - 🚀 **Tecnologías Emergentes**: Siempre estoy dispuesto a implementar nuevas tecnologías y brindar asesoramiento técnico para mantener los sistemas actualizados y eficientes.
 
-Si estás interesado en trabajar juntos o tienes alguna pregunta, ¡no dudes en contactarme! Estoy emocionado por las oportunidades de colaboración y 
-el desafío de simplificar ideas tecnológicas para hacer que el mundo digital sea más accesible y eficiente.
+Si estás interesado en trabajar juntos o tienes alguna pregunta, ¡no dudes en contactarme!.
 
 ## 📫 Contacto
 
