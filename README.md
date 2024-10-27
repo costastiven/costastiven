@@ -6,7 +6,7 @@ Mi enfoque se centra en ofrecer soluciones personalizadas y de alta calidad para
 ## 📋 Experiencia y Habilidades
 
 ## Analista Funcional
-- ## Eynes Ingeniería del software | Noviembre 2023 - Octubre 2024
+- ### Eynes Ingeniería del software | Noviembre 2023 - Octubre 2024
 
 - 💼 Experiencia como Analista Funcional, implementando Odoo como software ERP en diversos proyectos.
 - ⚙️ Especializado en la optimización de procesos empresariales a través de una amplia gama de módulos.
