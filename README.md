@@ -1,12 +1,12 @@
 # ¡Hola! 👋 Soy [Costa Stiven]
 
 Soy un apasionado analista de sistemas con experiencia en simplificar ideas tecnológicas complejas y transformarlas en soluciones concretas. 
-Mi enfoque se centra en ofrecer soluciones personalizadas y de alta calidad para satisfacer las necesidades de mis clientes y usuarios. Aquí hay algunas de las cosas que hago:
+Mi enfoque se centra en ofrecer soluciones personalizadas y de alta calidad para satisfacer las necesidades de mis clientes y usuarios.
 
 ## 📋 Experiencia y Habilidades
 
 ## Analista Funcional
-- Eynes Ingeniería del software | Noviembre 2023 - Octubre 2024
+- ## Eynes Ingeniería del software | Noviembre 2023 - Octubre 2024
 
 - 💼 Experiencia como Analista Funcional, implementando Odoo como software ERP en diversos proyectos.
 - ⚙️ Especializado en la optimización de procesos empresariales a través de una amplia gama de módulos.
